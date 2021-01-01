@@ -16,7 +16,7 @@ describe('Pruebas en 02-template-string.js', () => {
         
 
         const saludo = getSaludo( )
-        expect(saludo).toBe( 'Hola Gabriel') 
+        expect(saludo).toBe( 'Hola Gabriel')
 
     })
     
